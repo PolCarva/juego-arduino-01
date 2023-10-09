@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "configurationProvider": "arduino",
+    "sketch": "index.ino"
+}
